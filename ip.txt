@@ -1,0 +1,5 @@
+[webserver]
+IP ansible_user=root    ansible_ssh_pass=redhat   ansible_connection=ssh
+
+[haproxy]
+IP  ansible_user=root   ansible_ssh_pass=redhat    ansible_connection=ssh
